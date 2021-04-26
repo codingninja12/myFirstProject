@@ -1,1 +1,4 @@
-This file contains instruction for building calculator
+This file contains instruction for building calculator.
+
+modification 1
+
